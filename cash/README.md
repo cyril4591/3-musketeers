@@ -1,9 +1,9 @@
-## cash
+# cash
 
 This application allows you to convert money from a devise to an other one.
 You can choose the devise you use, a certain amount and the devise you want to convert your amount to
 
-# Parameter:
+## Parameter:
 
 You can choose different parameter with the following commands
 
